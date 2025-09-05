@@ -1,6 +1,6 @@
 # Privacy Policy for GScan
 
-**Effective Date:** January 2025
+**Effective Date:** September 2025
 
 ## Overview
 GScan is a business card scanning app that helps you extract contact information from business cards and save it to your device's Contacts app.
